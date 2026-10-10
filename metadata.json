@@ -1,0 +1,6 @@
+{
+  "name": "SV Grand Luxury Rooms",
+  "description": "Exclusive single-hotel booking platform for SV Grand Luxury Rooms in Tadipatri, Andhra Pradesh. Features Single & Double AC and Non-AC rooms with transparent per-person pricing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
